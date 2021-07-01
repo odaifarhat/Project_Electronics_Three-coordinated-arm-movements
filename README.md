@@ -177,6 +177,10 @@ void loop() {
      delay(2000);
 } 
   
+  
+# Simulation:
+
+https://www.tinkercad.com/things/k1gxZIGWWQw
 
 /* END */
  
