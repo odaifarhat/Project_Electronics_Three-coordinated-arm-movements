@@ -2,7 +2,7 @@
 
 june 29/6/2021
 
-By Dejan Eng.Odai Farhat.
+By Eng.Odai Farhat.
 
 Robot arms Left & Right.
 
